@@ -1,5 +1,7 @@
 # Chess with heuristics
-
+# Algorithms used:
+  - Minimax algorithm
+  - Alpha-Beta algorithm
 
 # source:
 CLAUDE E. SHANNON, Programming a Computer for Playing Chess.
