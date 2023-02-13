@@ -1,5 +1,5 @@
 # Chess with heuristics
- We have three players in `src`. Each player use one of the flowing algorithms.
+ We have three players in `src`. Each player use one of the flowing algorithms. Those players are not good for example they do not distinguish between start, middle and end of the game. 
 
 # Algorithms used:
   - Random algorithm.
